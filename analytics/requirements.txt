@@ -3,7 +3,7 @@ click==8.1.7
 Flask==3.0.1
 Flask-WTF==1.2.1
 itsdangerous==2.1.2
-Jinja2==3.1.4
+Jinja2==3.1.5
 MarkupSafe==2.1.4
 mysqlclient==2.2.1
 numpy==1.26.3
